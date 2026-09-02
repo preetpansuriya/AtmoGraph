@@ -1,0 +1,5 @@
+disruption_id,timestamp,facility_id,facility_name,facility_type,country,severity,disruption_type,impact_days,financial_exposure_m_usd,recovery_status
+DSR-101,2026-05-02T03:00:00Z,fab-intel-oregon,Intel D1X Ronler Acres,semiconductor_fab,US,medium,cleanroom_subfab_leak,8,95.0,monitoring
+DSR-102,2026-05-14T08:00:00Z,choke-malacca,Strait of Malacca,maritime_chokepoint,SG,high,monsoon_anchorage_delay,15,320.0,active
+DSR-103,2026-06-01T15:30:00Z,supp-shinetsu-gunma,Shin-Etsu Silicon Ingot,tier2_supplier,JP,high,raw_quartz_lag,19,140.0,active
+DSR-104,2026-06-20T11:45:00Z,mine-atacama-lithium,Salar de Atacama Brine,raw_material_mine,CL,medium,water_extraction_cap,11,85.0,monitoring

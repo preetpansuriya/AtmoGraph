@@ -1,0 +1,13 @@
+id,name,type,tier,country,region,currentRisk,inventoryBufferDays,financialExposureUsd,isChokepoint,capacityUtilization,leadTimeDays,alternativeSuppliersCount,carbonIntensityIndex
+fab-tsmc-hsinchu,TSMC Fab 18/12,semiconductor_fab,1,Taiwan,East Asia,68.0,14,1420.0,True,96.0,3.0,1,35.0
+supp-asml-veldhoven,ASML Veldhoven EUV,supplier_tier2,2,Netherlands,Western Europe,32.0,45,890.0,True,91.0,12.0,1,28.0
+tier1-foxconn-zhengzhou,Foxconn Zhengzhou Complex,manufacturing_hub,1,China,East Asia,74.0,9,2100.0,False,88.0,5.0,2,42.0
+fab-samsung-pyeongtaek,Samsung Pyeongtaek Fab,semiconductor_fab,1,South Korea,East Asia,48.0,21,1150.0,False,94.0,4.0,2,30.0
+port-shanghai,Port of Shanghai (Yangshan),port_terminal,0,China,East Asia,78.0,7,2600.0,True,98.0,2.0,1,55.0
+port-rotterdam,Port of Rotterdam Maasvlakte,port_terminal,0,Netherlands,Western Europe,72.0,12,1650.0,False,84.0,3.0,3,48.0
+port-la,Port of Los Angeles (Pier 400),port_terminal,0,United States,North America,55.0,8,2900.0,True,89.0,4.0,2,52.0
+choke-suez,Suez Canal Maritime Corridor,maritime_chokepoint,0,Egypt,Middle East,88.0,0,4200.0,True,99.0,14.0,0,60.0
+choke-malacca,Strait of Malacca,maritime_chokepoint,0,Singapore,Southeast Asia,82.0,0,3800.0,True,97.0,10.0,0,58.0
+mine-congo-cobalt,Katanga Cobalt Mine,raw_material_mine,3,DR Congo,Africa,62.0,30,740.0,True,95.0,28.0,1,70.0
+supp-shinetsu-gunma,Shin-Etsu Silicon Ingot,supplier_tier2,2,Japan,East Asia,58.0,20,680.0,False,90.0,8.0,2,36.0
+hub-tesla-austin,Tesla Giga Texas Final Assembly,distribution_center,0,United States,North America,64.0,4,3400.0,True,94.0,2.0,1,32.0

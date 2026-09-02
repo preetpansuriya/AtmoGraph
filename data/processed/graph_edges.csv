@@ -1,0 +1,12 @@
+source,target,relation_type,weight,latency_days
+supp-asml-veldhoven,fab-tsmc-hsinchu,SUPPLIES,0.95,3.0
+supp-shinetsu-gunma,fab-tsmc-hsinchu,SUPPLIES,0.90,4.0
+fab-tsmc-hsinchu,tier1-foxconn-zhengzhou,SUPPLIES,0.89,1.0
+mine-congo-cobalt,tier1-foxconn-zhengzhou,SUPPLIES,0.85,28.0
+tier1-foxconn-zhengzhou,port-shanghai,SHIPS_THROUGH,0.92,2.0
+port-shanghai,port-la,SHIPS_THROUGH,0.88,14.0
+port-shanghai,port-rotterdam,SHIPS_THROUGH,0.84,22.0
+port-la,hub-tesla-austin,SERVES,0.86,4.0
+choke-malacca,port-shanghai,CONNECTS_TO,0.94,5.0
+choke-suez,port-rotterdam,CONNECTS_TO,0.96,8.0
+fab-samsung-pyeongtaek,tier1-foxconn-zhengzhou,SUPPLIES,0.82,2.0

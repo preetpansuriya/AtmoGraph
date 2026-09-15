@@ -499,3 +499,6 @@ The analytics workspace provides an overview of network activity, risk indicator
 ## Data Processing
 
 CSV-based supply-chain datasets can be loaded, converted, validated, and transformed into structures used by the application's graph and analysis components.
+## AtmoGraph Development Summary
+
+AtmoGraph brings together supply-chain network visualization, AI-assisted analysis, graph processing, NLP workflows, and analytics into a unified interface for exploring disruption ripple effects.

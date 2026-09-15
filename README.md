@@ -493,3 +493,6 @@ The project includes a graph-based analysis workflow for evaluating relationship
 ## Risk Analysis
 
 AtmoGraph analyzes connected supply-chain entities to help identify potentially affected nodes and visualize the propagation of disruption.
+## Analytics Dashboard
+
+The analytics workspace provides an overview of network activity, risk indicators, disruption impact, and graph-based insights.

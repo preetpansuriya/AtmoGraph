@@ -496,3 +496,6 @@ AtmoGraph analyzes connected supply-chain entities to help identify potentially 
 ## Analytics Dashboard
 
 The analytics workspace provides an overview of network activity, risk indicators, disruption impact, and graph-based insights.
+## Data Processing
+
+CSV-based supply-chain datasets can be loaded, converted, validated, and transformed into structures used by the application's graph and analysis components.

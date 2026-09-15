@@ -484,3 +484,6 @@ The AtmoGraph frontend is built with React, TypeScript, and Vite. The interface 
 ## Network Visualization
 
 AtmoGraph provides an interactive network visualization to represent relationships between suppliers, manufacturers, logistics nodes, and other connected supply-chain entities.
+## NLP Processing
+
+The NLP pipeline processes disruption-related information and extracts relevant entities and events that can be used for supply-chain risk analysis.

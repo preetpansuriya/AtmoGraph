@@ -1,6 +1,0 @@
-{
-  "name": "AtmoGraph - 3D GNN Supply Chain & Maritime Risk Intelligence",
-  "description": "AtmoGraph 3D interactive supply chain graph neural network & maritime AIS risk forecasting platform with live NLP intelligence and left-aligned sidebar dashboard.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

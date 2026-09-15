@@ -487,3 +487,6 @@ AtmoGraph provides an interactive network visualization to represent relationshi
 ## NLP Processing
 
 The NLP pipeline processes disruption-related information and extracts relevant entities and events that can be used for supply-chain risk analysis.
+## Graph Neural Network Analysis
+
+The project includes a graph-based analysis workflow for evaluating relationships and potential ripple effects across the supply-chain network.

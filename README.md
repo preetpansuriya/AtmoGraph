@@ -468,6 +468,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] **API integration** - REST and GraphQL API endpoints
 - [ ] **Custom themes** - User-customizable color schemes and layouts
 - [ ] **Plugin system** - Extensible architecture for custom components
+## Frontend Architecture
 
----
-
+The AtmoGraph frontend is built with React, TypeScript, and Vite.
+The interface is organized into reusable components for network
+visualization, analytics, node inspection, and supply-chain analysis.

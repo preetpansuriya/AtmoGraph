@@ -481,3 +481,6 @@ other connected supply-chain entities.
 ## Frontend Architecture
 
 The AtmoGraph frontend is built with React, TypeScript, and Vite. The interface is organized into reusable components for network visualization, analytics, node inspection, and supply-chain analysis.
+## Network Visualization
+
+AtmoGraph provides an interactive network visualization to represent relationships between suppliers, manufacturers, logistics nodes, and other connected supply-chain entities.

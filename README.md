@@ -490,3 +490,6 @@ The NLP pipeline processes disruption-related information and extracts relevant 
 ## Graph Neural Network Analysis
 
 The project includes a graph-based analysis workflow for evaluating relationships and potential ripple effects across the supply-chain network.
+## Risk Analysis
+
+AtmoGraph analyzes connected supply-chain entities to help identify potentially affected nodes and visualize the propagation of disruption.
